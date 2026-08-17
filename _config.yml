@@ -210,6 +210,9 @@ collections:
     output: true
   teachings:
     output: true
+  travel:
+    output: true
+    permalink: /travel/:path/
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
