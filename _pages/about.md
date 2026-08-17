@@ -21,6 +21,6 @@ Before that, I was at TCS Research in the Cybersecurity Lab, starting out in fed
 
 I completed my Master's in Artificial Intelligence at IIT Hyderabad, where my thesis focused on optimization — specifically, conditional optimal transport.
 
-Beyond my core work, I'm interested in graph machine learning, reinforcement learning, and optimization for generative models. More broadly, my interests span empirical and theoretical research on LLMs, as well as ML applications in healthcare and finance.
+Beyond my core work, I'm interested in graph machine learning, reinforcement learning, and optimization for generative models. More broadly, my interests span empirical and theoretical research on LLMs, as well as ML applications in healthcare and finance😄!
 
-Outside of research, I enjoy movies, traveling and sports — especially football, cricket, table tennis, running, volleyball, and badminton. Blog posts on travel stories and ML coming soon!
+Outside of research, I enjoy movies, traveling ✈️  and sports 🏈🏏🏓 — especially football, cricket, table tennis, running, volleyball, and badminton. Blog posts on travel stories and ML coming soon 😂!
