@@ -362,6 +362,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 scholar:
   last_name: [Saibewar]
   first_name: [Aditya]
+  group_by: year
+  group_order: descending
 
   style: apa
   locale: en
