@@ -15,7 +15,7 @@ social: true
 
 Hello! I am a Researcher in the Physical AI Lab at Fujitsu Research, working on robotics and theoretical problems in memory, long-horizon task enhancement, and failure recovery. My current research also explores constrained optimization using Wasserstein shortest paths for Vision-Language-Action (VLA) models and reinforcement learning tasks.
 
-Prior to this, I was part of the AI Security Lab, red-teaming GenAI systems, designing novel jailbreak attacks such as multi turn jail break attacks using bandits and building defenses against state-of-the-art jailbreaks, particularly social engineering-based attacks using hypergraphs.
+Prior to this, I was part of the AI Security Lab, red-teaming GenAI systems, designing novel jailbreak attacks such as multi-turn jail break attacks using bandits and building defenses against state-of-the-art jailbreaks, particularly social engineering-based attacks using hypergraphs.
 
 Before that, I was at TCS Research in the Cybersecurity Lab, starting out in federated learning setups before moving into explainability and robustness for vision applications.
 
