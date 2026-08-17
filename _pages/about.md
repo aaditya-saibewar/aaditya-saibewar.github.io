@@ -8,9 +8,6 @@ profile:
   align: right
   image: profile.png
   image_circular: false
-  more_info: >
-    <p>Fujitsu Research</p>
-    <p>India</p>
 
 selected_papers: true
 social: true
