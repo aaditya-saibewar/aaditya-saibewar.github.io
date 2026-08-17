@@ -6,7 +6,7 @@ subtitle: Researcher, Fujitsu Research
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile.png
   image_circular: false
   more_info: >
     <p>Fujitsu Research</p>
